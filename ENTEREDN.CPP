@@ -5,9 +5,9 @@ void main()
 	clrscr();
 	int a;
 
-	cout<<"Enter the number " ,endl;
+	cout<<"Enter the number ";
 	cin>>a;
 
-	cout<<"The number entered = "<<a ,endl;
+	cout<<"The number entered = "<<a;
 getch();
 }

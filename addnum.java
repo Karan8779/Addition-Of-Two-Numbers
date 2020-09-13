@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class add {
+public class addnum {
 
     public static void main(final String[] args) {
         
